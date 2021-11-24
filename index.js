@@ -53,9 +53,9 @@ function exerciseDog(dogName, dogBreed){
  )
 //     newArray = []
 
-// //   for(let i = 0; i < routine.length; i++){
-// //       callFunction = routine[i];
-// //       newArray.push(callFunction(dogName, dogBreed));
+//   for(let i = 0; i < routine.length; i++){
+//       callFunction = routine[i];
+//       newArray.push(callFunction(dogName, dogBreed));
 
   return newArray
 }
